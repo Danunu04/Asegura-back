@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/1TB/ProyectoAseguraYa/AseguraYA-SAAS-Backend/Asegura-Back/BE/BE.csproj": {}
+    "/Users/danunu/Documents/ProyectosEnProceso/Asegura-back/BE/BE.csproj": {}
   },
   "projects": {
-    "/Volumes/1TB/ProyectoAseguraYa/AseguraYA-SAAS-Backend/Asegura-Back/BE/BE.csproj": {
+    "/Users/danunu/Documents/ProyectosEnProceso/Asegura-back/BE/BE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/1TB/ProyectoAseguraYa/AseguraYA-SAAS-Backend/Asegura-Back/BE/BE.csproj",
+        "projectUniqueName": "/Users/danunu/Documents/ProyectosEnProceso/Asegura-back/BE/BE.csproj",
         "projectName": "BE",
-        "projectPath": "/Volumes/1TB/ProyectoAseguraYa/AseguraYA-SAAS-Backend/Asegura-Back/BE/BE.csproj",
+        "projectPath": "/Users/danunu/Documents/ProyectosEnProceso/Asegura-back/BE/BE.csproj",
         "packagesPath": "/Users/danunu/.nuget/packages/",
-        "outputPath": "/Volumes/1TB/ProyectoAseguraYa/AseguraYA-SAAS-Backend/Asegura-Back/BE/obj/",
+        "outputPath": "/Users/danunu/Documents/ProyectosEnProceso/Asegura-back/BE/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/danunu/.nuget/NuGet/NuGet.Config"

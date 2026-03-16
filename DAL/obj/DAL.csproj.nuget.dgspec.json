@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/1TB/ProyectoAseguraYa/AseguraYA-SAAS-Backend/Asegura-Back/DAL/DAL.csproj": {}
+    "/Users/danunu/Documents/ProyectosEnProceso/Asegura-back/DAL/DAL.csproj": {}
   },
   "projects": {
-    "/Volumes/1TB/ProyectoAseguraYa/AseguraYA-SAAS-Backend/Asegura-Back/DAL/DAL.csproj": {
+    "/Users/danunu/Documents/ProyectosEnProceso/Asegura-back/DAL/DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/1TB/ProyectoAseguraYa/AseguraYA-SAAS-Backend/Asegura-Back/DAL/DAL.csproj",
+        "projectUniqueName": "/Users/danunu/Documents/ProyectosEnProceso/Asegura-back/DAL/DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "/Volumes/1TB/ProyectoAseguraYa/AseguraYA-SAAS-Backend/Asegura-Back/DAL/DAL.csproj",
+        "projectPath": "/Users/danunu/Documents/ProyectosEnProceso/Asegura-back/DAL/DAL.csproj",
         "packagesPath": "/Users/danunu/.nuget/packages/",
-        "outputPath": "/Volumes/1TB/ProyectoAseguraYa/AseguraYA-SAAS-Backend/Asegura-Back/DAL/obj/",
+        "outputPath": "/Users/danunu/Documents/ProyectosEnProceso/Asegura-back/DAL/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/danunu/.nuget/NuGet/NuGet.Config"
@@ -44,6 +44,12 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
+          "dependencies": {
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[11.0.0-preview.2.26159.112, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
